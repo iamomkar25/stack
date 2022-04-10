@@ -1,0 +1,8 @@
+C:\Users\iamomkar\source\repos\stack\stack\bin\Debug\stack.exe.config
+C:\Users\iamomkar\source\repos\stack\stack\bin\Debug\stack.exe
+C:\Users\iamomkar\source\repos\stack\stack\bin\Debug\stack.pdb
+C:\Users\iamomkar\source\repos\stack\stack\obj\Debug\stack.csproj.AssemblyReference.cache
+C:\Users\iamomkar\source\repos\stack\stack\obj\Debug\stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamomkar\source\repos\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+C:\Users\iamomkar\source\repos\stack\stack\obj\Debug\stack.exe
+C:\Users\iamomkar\source\repos\stack\stack\obj\Debug\stack.pdb
